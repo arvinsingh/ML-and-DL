@@ -2,11 +2,11 @@
 
 #### **Datasets analyzer**
 
-	- [Fisher Iris](https://archive.ics.uci.edu/dataset/53/iris)
-	- [Wine Data](https://archive.ics.uci.edu/dataset/109/wine)
-	- [MNIST Digits](https://www.tensorflow.org/datasets/catalog/mnist)
-	- [CIFAR 10 and CIFAR-100](https://www.cs.toronto.edu/%7Ekriz/cifar.html)
-	- Random datasets
+- [Fisher Iris](https://archive.ics.uci.edu/dataset/53/iris)
+- [Wine Data](https://archive.ics.uci.edu/dataset/109/wine)
+- [MNIST Digits](https://www.tensorflow.org/datasets/catalog/mnist)
+- [CIFAR 10 and CIFAR-100](https://www.cs.toronto.edu/%7Ekriz/cifar.html)
+- Random datasets
 
 #### **Algorithms used**
 
