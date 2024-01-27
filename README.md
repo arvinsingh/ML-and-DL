@@ -1,6 +1,6 @@
 ## **Machine Learning Notebooks**
 
-#### **Datasets analyzer**
+#### **Datasets analyzed**
 
 - [Fisher Iris](https://archive.ics.uci.edu/dataset/53/iris)
 - [Wine Data](https://archive.ics.uci.edu/dataset/109/wine)
@@ -34,7 +34,8 @@
 
 	on CIFAR-100 and CIFAR-10 datasets
 
-	[TBD] : ADD link to the report here. []()
+#### Experiment Report:
+[Computer Vision: Implementing and studying performance of two different algorithms for Object Recognition on CIFAR-10 and CIFAR-100 datasets.](http://dx.doi.org/10.13140/RG.2.2.29830.34881)
 
 #### **Outcome**
 	- Deep understanding of Machine Learning and Deep Learning algorithms
