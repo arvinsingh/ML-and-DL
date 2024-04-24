@@ -11,6 +11,7 @@
 #### **Algorithms used**
 
 	- KMeans
+	- Naive Bayes Classifer 
 	- Gaussian Mixture Model
 	- Scree Test
 	- Linear Regression
@@ -42,3 +43,5 @@
 	- Data Analysis
 	- Data Visualization
 	- Linear Algebra
+	- Probability
+	- Sample generation
